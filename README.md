@@ -11,8 +11,8 @@
 这是一款意思的杂志封面生成器，为一个活动而做，起到了很好的宣传作用
 上线当天PV 1200+
 ![Alt text](pv.png)
-![Alt text](ep.png)
-![Alt text](make.png)
+
+
 
 
 
